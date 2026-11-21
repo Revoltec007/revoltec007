@@ -4,7 +4,7 @@ I'm Roland, a data and business systems enthusiast with a strong focus on enterp
 
 I enjoy turning complex business requirements into efficient data solutions, optimizing processes, and making data work smarter.
 
-My main tech stack includes **MS SQL, Power BI, Power Automate, Microsoft Fabric, Python**  <!-- Snowflake, and MongoDB.** -->
+My main tech stack includes **MS SQL, Power BI, Power Automate, Microsoft Fabric, Python.**  <!-- Snowflake, and MongoDB.** -->
 
 I'm also an **SAP & SAP SuccessFactors HR Master Data and Process Expert**, with a focus on HR data management, process optimization, and enterprise system solutions.
 
@@ -30,9 +30,10 @@ I believe that great data, well-designed processes, and the right technology can
 
 ### 🤝 Let's Connect!
 
-Feel free to explore my repositories and connect with me!
+Feel free to explore my repositories & portfolio and connect with me!
 
-https://img.shields.io/badge/GitHub-Revoltec007-181717?style=for-the-badge&logo=github](https://github.com/Revoltec007)
+[Repositories](https://github.com/Revoltec007?tab=repositories)
+[My portfolio](https://revoltec007.github.io/)
 
 <!--
 **Revoltec007/revoltec007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
