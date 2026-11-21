@@ -9,7 +9,7 @@ My main tech stack includes **MS SQL, Power BI, Power Automate, Microsoft Fabric
 I'm also an **SAP & SAP SuccessFactors HR Master Data and Process Expert**, with a focus on HR data management, process optimization, and enterprise system solutions.
 
 I believe that great data, well-designed processes, and the right technology can make a real difference in business.
-
+___
 ### 🛠️ Tech Stack & Expertise
 
 - **Databases:** MS SQL    <!--, Snowflake, MongoDB -->
@@ -19,7 +19,7 @@ I believe that great data, well-designed processes, and the right technology can
 - **Data Platforms:** Microsoft Fabric
 - **Enterprise Systems:** SAP, SAP SuccessFactors
 - **Specialization:** Business Accounting, HR Master Data Management & Process Optimization
-
+___
 ### 🎯 Fun Facts
 
 - I love to stream action and horror games.
@@ -27,7 +27,7 @@ I believe that great data, well-designed processes, and the right technology can
 - A low-key anime enjoyer.
 - A kung-fu-inspired football player.⚽
 - I worked part-time on a peach farm for 10 years!🚜🍑
-
+___
 ### 🤝 Let's Connect!
 
 Feel free to explore my repositories & portfolio and connect with me!
